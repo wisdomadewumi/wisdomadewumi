@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wisdomadewumi
-- 👀 I’m interested in antimicrobial peptides, bioinformatics, and biotechnology
-- 🌱 I’m currently learning how to use the SRA Tool kit from NCBI
-- 💞️ I’m looking to collaborate on projects that will ease me into the world of bioinformatics
+- 👀 I’m interested in data analytics, insect antimicrobial peptides, bioinformatics, and biotechnology
+- 🌱 I’m currently building some data analytics projects to showcase my data cleansing, analysis and visualization skills in SQL and Tableau
 - 📫 How to reach me by email: wisdomadewumi@hotmail.com
 
 <!---
