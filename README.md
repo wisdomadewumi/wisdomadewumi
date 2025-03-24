@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @wisdomadewumi
-- 👀 I’m interested in data analytics, insect antimicrobial peptides, bioinformatics, and biotechnology
-- 🌱 I’m currently building some data analytics projects to showcase my data cleansing, analysis and visualization skills in SQL and Tableau
-- 📫 How to reach me by email: wisdomadewumi@hotmail.com
+# 👨🏽 About Me
+Hello friendly stranger! I go by the name **Divine-Wisdom O. Adewumi** and I'm a Biomedical Laboratory Scientist turned Data Analyst on account of my penchant for seeking and finding patterns in data all around us. Insights from data in healthcare, business, education, music and geopolitics tend to pique my interest the most.
 
-<!---
-wisdomadewumi/wisdomadewumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+We can connect on LinkedIn or you could check my portfolio website:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divine-wisdom-adewumi)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wisdomadewumi.github.io)
